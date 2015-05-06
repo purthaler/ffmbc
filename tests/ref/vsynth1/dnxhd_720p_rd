@@ -1,0 +1,4 @@
+4cdc5849c2b7719c0341c757a8a0ba96 *./tests/data/vsynth1/dnxhd-720p-rd.dnxhd
+2293760 ./tests/data/vsynth1/dnxhd-720p-rd.dnxhd
+95f2cdafc623335c0c362c5456fcf6fc *./tests/data/dnxhd_720p_rd.vsynth1.out.yuv
+stddev:    6.20 PSNR: 32.28 MAXDIFF:   64 bytes:   760320/  7603200
